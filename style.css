@@ -90,10 +90,7 @@ a:hover {
   right: 0;
 }
 
-.texture-paper::before {
-  background: url("img/texture-paper.png");
-  background-size: 280px 280px;
-}
+
 
 .b-parallax {
   background-attachment: fixed;
@@ -744,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  width:100%;
 }
 
 .portfolio-row {
@@ -756,7 +754,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgba(163, 157, 143, 0.8);
   padding: 40px 40px 40px 40px;
 }
 
