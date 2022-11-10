@@ -679,7 +679,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -709,6 +709,7 @@ p {
 h2 {
   font-size: 22px;
   line-height: 1.4em;
+  
 }
 
 h3 {
@@ -738,7 +739,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #333333 !important;
 }
 
 .portfolio-thumb {
@@ -777,12 +778,12 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #ffffff !important;
+  color: #333333!important;
 }
 
 .btn-atomic-tangerine:hover {
