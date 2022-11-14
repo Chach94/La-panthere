@@ -789,7 +789,7 @@ h4 {
   color: #ffffff !important;
 }
 .black {
-  color:black;
+  color:black !important;
 }
 
 .btn-atomic-tangerine {
