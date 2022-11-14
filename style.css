@@ -475,7 +475,7 @@ button {
 
 .icon-md {
   font-size: 40px !important;
-  padding:10px; 
+  padding:10px;
 }
 
 .icon-lg {
@@ -782,11 +782,14 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #e87f4e;
+  background-color: #f3976c;
 }
 
 .tc-white {
   color: #ffffff !important;
+}
+.black {
+  color:#333333;
 }
 
 .btn-atomic-tangerine {
