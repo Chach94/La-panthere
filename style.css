@@ -130,7 +130,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: #333333;
 }
 
 .d-bloc .a-btn:hover,
@@ -676,7 +676,16 @@ a {
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
+}
+.citation{
+
+font-size: 20px;
+font-style: italic;
+}
+.col-xs-12>span{
+  font-size: 16px; 
+  color:#000000;
 }
 
 .tight-width-whitespace {
@@ -810,9 +819,7 @@ h4 {
   border-color: #364577 !important;
 }
 
-.bg-dots-bg {
-  background-image: url("img/dots-bg.png");
-}
+
 
 .bg-lines-h2-bg {
   background-image: url("img/lines-h2-bg.png");
